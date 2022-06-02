@@ -2,8 +2,8 @@
 $ apt update
 $ apt upgrade
 $ git clone https://github.com/Zydanakmal/fanora-id
-$ cd Change
+$ cd fanora-id
 $ ls
-$ gitu pull
+$ git pull
 $ python Chang3.py
 ```
